@@ -6,7 +6,7 @@ declare namespace Cpf {
 
     isValid(number: string, strict?: boolean): boolean;
 
-    strip(number: string): string;
+    strip(number: string, strict?: boolean): string;
   }
 }
 

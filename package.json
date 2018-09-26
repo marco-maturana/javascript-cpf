@@ -1,6 +1,6 @@
 {
   "name": "@marcomaturana/cpf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "help module for the cpf usage",
   "main": "index.js",
   "directories": {
