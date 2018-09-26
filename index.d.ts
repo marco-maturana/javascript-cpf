@@ -4,7 +4,7 @@ declare namespace Cpf {
 
     generate(formatted?: boolean): string;
 
-    isValid(number: string, strict?: boolean): string;
+    isValid(number: string, strict?: boolean): boolean;
 
     strip(number: string): string;
   }
